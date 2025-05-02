@@ -8,5 +8,5 @@
   <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <div/><br/>
-
-Focado em melhorar cada dia mais na área de tecnologia!
+  
+Meu objetivo é atuar como desenvolvedor front-end, contribuindo com soluções eficientes, código limpo e foco na melhor experiência para o usuário.
