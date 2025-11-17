@@ -1,6 +1,6 @@
 ### Hello! My name is Luiz Felipe 👋
 
-![Luiz Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=luiz-feliph&show_icons=true&bg_color=00000000)
+![Luiz Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=luiz-feliph&show_icons=true&theme=tokyonight&hide=issues&rank_icon=github)
 
 ## Technologies I work with
 <div style="display: inline-block"><br/>
